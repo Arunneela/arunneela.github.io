@@ -1,27 +1,27 @@
 ## My Profile
 
-Having Over 9 years of IT work experience as Oracle Apps Technical Developer using Oracle Applications 11i and R12. Good working experience in
-APIs, Loader script.Good knowledge in Oracle Open Interfaces & APIs in OM, OPM, Inventory, AR and AP. Has good working experience in
-data conversions and Interface using APIs and loader scripts. Mr. Neela has worked on Form Development, Customization and Forms
-Personalization. He has also worked on Reports 6i/10G, Workflows, XML Publisher. He has also got knowledge on the middleware
-technologies like oracle SOA and Oracle Cloud Integrations. Neela has good Support, Development, up gradation and implementation
-experience. He has also worked on a project for developing the OAF pages, personalization and extensions.
+A competent professional offering and has 9 years of IT work experience as Oracle Apps Technical Developer using Oracle Applications 11i,R12 and PLSQL.
+Good working experience in APIs, Loader script.
+Good knowledge in Oracle Open Interfaces & APIs in OM, OPM, Inventory, AR and AP.
+Have good working experience in data conversions and Interface using APIs and loader scripts.
+Have also got knowledge on the middleware technologies like Oracle Cloud Integrations.
+Good Support, Development, up gradation and implementation experience. 
+Have also worked on projects for developing the OAF pages, personalization and extensions.
+Experience in development and customization of RICE Components.
+Worked on Procure To Pay (P2P) and Order To Cash (O2C) Life Cycles.
+Hands on expertise on generating XML Publisher Reports.
+Worked on Workflows.
+Worked on AME.
+Proficient in analysis, design and development of software process and has strong interpersonal, presentation skills.
 
-Good Technical knowledge in the Modules (INV, P2P, O2C, CRM).
- Experience in development &amp; customization of RICE Components.
- Worked on Procure To Pay (P2P) and Order To Cash (O2C) Life Cycles.
- Proficient with modules like Order Management, Purchase Order, Inventory, CRM.
- Hands on expertise on generating XML Publisher Reports.
- Having experience in GST implementation.
- Worked on Business Events.
- Worked on Workflow.
- Worked on AME.
- Proficient in analysis, design and development of software process and has strong
-interpersonal, presentation skills.
+### Knowledge
 
-### Markdown
 
-Hey this is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Technical Expertise: SQL, PL/SQL, Forms 6i/10g, Reports 6i/10g, XML publisher, Workflows,Oracle Cloud,SOA, OCI, OIC, Blockchain,Oracle Enterprise Data Quality
+Tool,OAF,Java,Javascirpt,Data Analytics,Oracle Itegration Cloud.
+
+Functional Expertise: Oracle Process Manufacturing Inventory, Order Management, Discrete
+Inventory, Account Receivable,Account Payables,Fixed Assets,General Ledger.
 
 ```markdown
 Syntax highlighted code block
