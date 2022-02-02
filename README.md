@@ -33,12 +33,10 @@ Received appreciations from team members during that phase for my quick response
 
 Worked on java , hybris framework and promotion engine. Created registration process, order hostory for amway. Worked on emil notifications service for customers
 
----
 
 ## Education
 ### B.E INFORMATION TECHNOLOGY (2008- 2012)
 
----
 
 ### INTERESTS
 Apart from being a web developer, I do content creation. I make videos related to frontend and general tech.
