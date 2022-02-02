@@ -1,8 +1,11 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/Arunneela/arunneela.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+8 years of IT work experience as Oracle Apps Technical Developer using Oracle Applications 11i and R12. Good working experience in
+APIs, Loader script.Good knowledge in Oracle Open Interfaces & APIs in OM, OPM, Inventory, AR and AP. Has good working experience in
+data conversions and Interface using APIs and loader scripts. Mr. Neela has worked on Form Development, Customization and Forms
+Personalization. He has also worked on Reports 6i/10G, Workflows, XML Publisher. He has also got knowledge on the middleware
+technologies like oracle SOA and Oracle Cloud Integrations. Neela has good Support, Development, up gradation and implementation
+experience. He has also worked on a project for developing the OAF pages, personalization and extensions.
 
 ### Markdown
 
