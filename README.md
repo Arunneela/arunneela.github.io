@@ -1,8 +1,6 @@
 ## Portfolio
 
-I am a frontend engineer with an experience of over 5 years. I have hands on experienceworking with web frameworks and technologies. I have extensively worked on react and typescript for 3 years.
-
----
+I am a Senior Software Engineer with an experience of over 9 years of IT work experience as Oracle Apps Technical Developer using Oracle Applications 11i,R12 and PLSQL. Good working experience in APIs, Loader script. Good knowledge in Oracle Open Interfaces & APIs in OM, OPM, Inventory, AR and AP. Have good working experience in data conversions and Interface using APIs and loader scripts. Have also got knowledge on the middleware technologies like Oracle Cloud Integrations. Good Support, Development, up gradation and implementation experience. Have also worked on projects for developing the OAF pages, personalization and extensions. Experience in development and customization of RICE Components. Worked on Procure To Pay (P2P) and Order To Cash (O2C) Life Cycles. Hands on expertise on generating XML Publisher Reports. Worked on Workflows. Worked on AME. Proficient in analysis, design and development of software process and has strong interpersonal, presentation skills.
 
 ## Skills
 
