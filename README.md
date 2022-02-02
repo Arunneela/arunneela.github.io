@@ -24,9 +24,36 @@ Functional Expertise: Oracle Process Manufacturing Inventory, Order Management, 
 Inventory, Account Receivable,Account Payables,Fixed Assets,General Ledger.
 
 ```markdown
-Syntax highlighted code block
+Projects
 
-# Header 1
+# Hitachi Vantara LLC
+  
+Hitachi Vantara, a wholly-owned subsidiary of Hitachi, Ltd., guides our customers from what’s now to
+what’s next by solving their digital challenges. Working alongside each customer, we apply our unmatched
+industrial and digital capabilities to their data and applications to benefit both business and society. More
+than 80% of the Fortune 100 trust Hitachi Vantara to help them develop new revenue streams, unlock
+competitive advantages, lower costs, enhance customer experiences, and deliver social and environmental value.
+
+- Worked on UNIX scripts and commands at the time of installation of objects.
+- Prepared Unit Test Case document for all objects.
+- Prepared MD-70 and MD-120 for the objects developed.
+- Worked on XML Publisher Reports, SQL reports.
+- Worked on Customizations of the OAF pages.
+- Interact with the onsite Team on offshore based development, issue resolutions etc. on daily
+  basis.
+- Worked on trouble-shooting of support issues encountered during UAT
+- Involved in Performance tuning and explain plan to improve the performance by analyzing the
+  trace file/tkprof.
+- Implemented role-based access control for OS/filesystem and Database level access.
+  Access by users performing operational tasks that require the export and import of data
+  Programmatic access to export/import files
+  Implement housekeeping of export/import files
+- Access to systems by developers and IT support staff
+- Functional Expertise: Order Management, Discrete Inventory, Account Receivable and Account
+  Payables
+  Technologies: SQL, PL/SQL,Linux, Reports 6i/10g,OAF,XML publisher and Workflows
+  
+
 ## Header 2
 ### Header 3
 
@@ -36,17 +63,4 @@ Syntax highlighted code block
 1. Numbered
 2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Arunneela/arunneela.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
