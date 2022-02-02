@@ -12,19 +12,21 @@ I am a Senior Software Engineer with an experience of over 9 years of IT work ex
    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
 </p>
 
----
-
 ## Experience
 
-### **SENIOR FRONTEND DEVELOPER**
+### **SENIOR SOFTWARE DEVELOPER**
 ### MIRO
 
-Working with meetings and workshops team to provide best experience to faciltators and participants while running meetings . I worked on features like creating isolated environment for participants during meeting, providing them limited tools to collaborate and created navigation panel for facilitators to move participants to different slides
+Led the project teams,internal and external,to achieve project defined milestones and deliverables.Conducted meetings with project teams
+to gather the requirements.Translated business user concepts and ideas into comprehensive business requirements and design
+documents. Identified ongoing issues and gaps within project plans,in order to eliminate implementation issues.Professionally completed
+task or project in given time period through the ability to collaborate,strong communication, analytical skill, problem solving skills, and teamwork
 
-### **FRONTEND DEVELOPER**
+### **SOFTWARE DEVELOPER**
 ### Booking.com
 
-Worked with packages team to build mobile website using React, typsecript and graphql. Developerd checkout process for package bookings. Migrated the old code in perl to react for desktop website.
+Worked with the business clients to analyze their business requirements and recommend and design improvements to their business processes and operational procedures. Developed process mapping of current and future business processes. Prototyped new procedures and trained new users on each new deployment.
+Received appreciations from team members during that phase for my quick response and resolutions on the issues caused
 
 ### **SOFTWARE DEVELOPER**
 ### NAGARRO PVT, LTD
@@ -34,10 +36,7 @@ Worked on java , hybris framework and promotion engine. Created registration pro
 ---
 
 ## Education
-
-### **GURU NANAK DEV UNIVERSITY**
-### BTech Computer Science (2012- 2016)
-GPA 8.75
+### B.E INFORMATION TECHNOLOGY (2008- 2012)
 
 ---
 
