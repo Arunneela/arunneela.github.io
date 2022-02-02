@@ -1,66 +1,49 @@
-## My Profile
+## Portfolio
 
-A competent professional offering and has 9 years of IT work experience as Oracle Apps Technical Developer using Oracle Applications 11i,R12 and PLSQL.
-Good working experience in APIs, Loader script.
-Good knowledge in Oracle Open Interfaces & APIs in OM, OPM, Inventory, AR and AP.
-Have good working experience in data conversions and Interface using APIs and loader scripts.
-Have also got knowledge on the middleware technologies like Oracle Cloud Integrations.
-Good Support, Development, up gradation and implementation experience. 
-Have also worked on projects for developing the OAF pages, personalization and extensions.
-Experience in development and customization of RICE Components.
-Worked on Procure To Pay (P2P) and Order To Cash (O2C) Life Cycles.
-Hands on expertise on generating XML Publisher Reports.
-Worked on Workflows.
-Worked on AME.
-Proficient in analysis, design and development of software process and has strong interpersonal, presentation skills.
+I am a frontend engineer with an experience of over 5 years. I have hands on experienceworking with web frameworks and technologies. I have extensively worked on react and typescript for 3 years.
 
-### Knowledge
+---
 
+## Skills
 
-Technical Expertise: SQL, PL/SQL, Forms 6i/10g, Reports 6i/10g, XML publisher, Workflows,Oracle Cloud,SOA, OCI, OIC, Blockchain,Oracle Enterprise Data Quality
-Tool,OAF,Java,Javascirpt,Data Analytics,Oracle Itegration Cloud.
+<p align='left'>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" alt="html" width="40" height="40">
+  <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png' alt="css" width="40" height="40">
+  <img src='https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png' height='30' width='auto' alt="js">
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="react" width="auto" height="40"/>
+   <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
+</p>
 
-Functional Expertise: Oracle Process Manufacturing Inventory, Order Management, Discrete
-Inventory, Account Receivable,Account Payables,Fixed Assets,General Ledger.
+---
 
-```markdown
-Projects
+## Experience
 
-# Hitachi Vantara LLC
-  
-Hitachi Vantara, a wholly-owned subsidiary of Hitachi, Ltd., guides our customers from what’s now to
-what’s next by solving their digital challenges. Working alongside each customer, we apply our unmatched
-industrial and digital capabilities to their data and applications to benefit both business and society. More
-than 80% of the Fortune 100 trust Hitachi Vantara to help them develop new revenue streams, unlock
-competitive advantages, lower costs, enhance customer experiences, and deliver social and environmental value.
+### **SENIOR FRONTEND DEVELOPER**
+### MIRO
 
-- Worked on UNIX scripts and commands at the time of installation of objects.
-- Prepared Unit Test Case document for all objects.
-- Prepared MD-70 and MD-120 for the objects developed.
-- Worked on XML Publisher Reports, SQL reports.
-- Worked on Customizations of the OAF pages.
-- Interact with the onsite Team on offshore based development, issue resolutions etc. on daily
-  basis.
-- Worked on trouble-shooting of support issues encountered during UAT
-- Involved in Performance tuning and explain plan to improve the performance by analyzing the
-  trace file/tkprof.
-- Implemented role-based access control for OS/filesystem and Database level access.
-  Access by users performing operational tasks that require the export and import of data
-  Programmatic access to export/import files
-  Implement housekeeping of export/import files
-- Access to systems by developers and IT support staff
-- Functional Expertise: Order Management, Discrete Inventory, Account Receivable and Account
-  Payables
-  Technologies: SQL, PL/SQL,Linux, Reports 6i/10g,OAF,XML publisher and Workflows
-  
+Working with meetings and workshops team to provide best experience to faciltators and participants while running meetings . I worked on features like creating isolated environment for participants during meeting, providing them limited tools to collaborate and created navigation panel for facilitators to move participants to different slides
 
-## Header 2
-### Header 3
+### **FRONTEND DEVELOPER**
+### Booking.com
 
-- Bulleted
-- List
+Worked with packages team to build mobile website using React, typsecript and graphql. Developerd checkout process for package bookings. Migrated the old code in perl to react for desktop website.
 
-1. Numbered
-2. List
+### **SOFTWARE DEVELOPER**
+### NAGARRO PVT, LTD
 
+Worked on java , hybris framework and promotion engine. Created registration process, order hostory for amway. Worked on emil notifications service for customers
 
+---
+
+## Education
+
+### **GURU NANAK DEV UNIVERSITY**
+### BTech Computer Science (2012- 2016)
+GPA 8.75
+
+---
+
+### INTERESTS
+Apart from being a web developer, I do content creation. I make videos related to frontend and general tech.
+
+I enjoy being outdoors, so i go for run everyday. I love travelling to different countries and explore different cultures. When i am inside , i play guitar and sing in my free time.
